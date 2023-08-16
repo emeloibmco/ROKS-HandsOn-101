@@ -9,9 +9,9 @@ Para el desarrollo de este proyecto se tiene como base el desarrollo de una apli
 1. [Despliegue en OpenShift desde IBM Cloud shell](#Despliegue-en-OpenShift-desde-IBM-Cloud-shell-)
 2. [Despliegue Aplicación Demo en React](#despliegue-aplicación-demo-en-react-⚛️)
 3. [Despliegue Aplicación Feedback App Desde la consola web de OpenShift](#despliegue-aplicación-feedback-app-desde-la-consola-web-de-openshift-📦)
-4. [Monitoreo de la aplicación](#monitoreo-de-la-aplicación)
-5. [Despliegue de una imagen Docker en un contenedor de Openshift](#Despliegue-de-una-imagen-Docker-en-un-contenedor-de-Openshift-)
-6. [Referencias](#Referencias)
+4. [Despliegue de una imagen Docker en un contenedor de Openshift](#Despliegue-de-una-imagen-Docker-en-un-contenedor-de-Openshift-)
+5. [Referencias](#Referencias)
+<!-- 4. [Monitoreo de la aplicación](#monitoreo-de-la-aplicación) -->
 <br />
 
 ## Despliegue en OpenShift desde IBM Cloud shell: 🚀
@@ -195,7 +195,7 @@ https://github.com/sofiaponteb/feedback-app-openshift
 
 <br />
 
-### Monitoreo de la aplicación
+<!-- ### Monitoreo de la aplicación
 
 Para realizar un monitoreo de la aplicación desplegada debe seguir los pasos que se indican a continuación:
 
@@ -242,7 +242,7 @@ Para realizar un monitoreo de la aplicación desplegada debe seguir los pasos qu
 
 De esta manera podemos analizar el consumo que se ha tenido en nuestra aplicación tanto en CPU como en Memoria.
 
-<br />
+<br /> -->
 
 ## Despliegue de una imagen Docker en un contenedor de Openshift 📦
 
