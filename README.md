@@ -9,9 +9,10 @@ Para el desarrollo de este proyecto se tiene como base el desarrollo de una apli
 1. [Despliegue en OpenShift desde IBM Cloud shell](#Despliegue-en-OpenShift-desde-IBM-Cloud-shell-)
 2. [Despliegue Aplicación Demo en React](#despliegue-aplicación-demo-en-react-⚛️)
 3. [Despliegue Aplicación Feedback App Desde la consola web de OpenShift](#despliegue-aplicación-feedback-app-desde-la-consola-web-de-openshift-📦)
-4. [Despliegue de una imagen Docker en un contenedor de Openshift](#Despliegue-de-una-imagen-Docker-en-un-contenedor-de-Openshift-)
-5. [Referencias](#Referencias)
-<!-- 4. [Monitoreo de la aplicación](#monitoreo-de-la-aplicación) -->
+4. [Monitoreo de la aplicación](#monitoreo-de-la-aplicación)
+5. [Despliegue de una imagen Docker en un contenedor de Openshift](#Despliegue-de-una-imagen-Docker-en-un-contenedor-de-Openshift-)
+6. [Referencias](#Referencias)
+
 <br />
 
 ## Despliegue en OpenShift desde IBM Cloud shell: 🚀
@@ -195,54 +196,33 @@ https://github.com/sofiaponteb/feedback-app-openshift
 
 <br />
 
-<!-- ### Monitoreo de la aplicación
+## Monitoreo de la aplicación
 
-Para realizar un monitoreo de la aplicación desplegada debe seguir los pasos que se indican a continuación:
+Para realizar monitoreo de la aplicación desplegada debe seguir los pasos que se indican a continuación:
 
-1. Dé click en la pestaña del proyecto (parte superior) y allí busque y seleccione el proyecto ```openshift-monitoring```. Este namespace está creado por defecto y contiene herramientas como Prometheus y Grafana que permiten monitorear el clúster. Observe los componentes que aparecen y dé click en la opción ```Open URL``` que aparece para Grafana.
+1. Hacer click en la sección **Observe**
+2. Hacer click en la pestaña del proyecto (parte superior), allí busque y seleccione el proyecto donde desplegó la aplicación, el que tenía la sintaxis **handson-nombreapellido**.
+   
+![image](https://github.com/emeloibmco/ROKS-React---HandsOn-4.9/assets/51938754/2be06a78-4940-4e56-884d-cbe72d0a9bbc)
 
-<p align="center">
-<img src="https://github.com/emeloibmco/ROKS-Angular-HandsOn-4.4/blob/master/Grafana_acceso.gif">
-</p>
-<br />
-
-2. Esta acción nos va a redirigir a una nueva ventana de nuestro navegador en la cual debemos seleccionar nuestro método de acceso al cual debemos dar clic en **Log in with Openshift**.
+4. En la sección **Dashboard** puede seleccionar las siguientes opciones.
 
 <p align="center">
-<img width="960" alt="log in grafana" src="https://user-images.githubusercontent.com/60987042/93893051-d1a74500-fcb2-11ea-8982-24db221aec48.PNG">
+<img width="760" alt="cpu" src="https://github.com/emeloibmco/ROKS-React---HandsOn-4.9/assets/51938754/9e742350-038b-45dd-aef4-b8b751fdeafc">
 </p>
-<br />
 
-3. En esta nueva ventana inicialmente nos aparecerá un mensaje de autorización en cual debemos dar clic en **Allow Selected Permissions**.
+5. También puede seleccionar la sección **Metrics** y seleccionar alguno de los siguientes query.
 
 <p align="center">
-<img width="960" alt="acces" src="https://user-images.githubusercontent.com/60987042/93896923-1fbe4780-fcb7-11ea-9a69-dc23dd35f814.PNG">
+<img width="760" alt="cpu" src="https://github.com/emeloibmco/ROKS-React---HandsOn-4.9/assets/51938754/1261e803-1d3d-4109-88aa-9894ddbb64a4">
 </p>
-<br />
-
-4. Al completar el paso anterior nos aparecerá el Dashboard inicial de Grafana, la cual es la herramineta de monitoreo que viene integrada con openshift.
 
 <p align="center">
-<img width="959" alt="grafa" src="https://user-images.githubusercontent.com/60987042/93893080-dbc94380-fcb2-11ea-9733-5e8a37e31d84.PNG">
-</p>
-<br />
-
-5. Para poder monitorear nuestra aplicacion debemos dar clic en **Home** y acá se nos mostrará un menú desplegable en el cual debemos seleccionar lo siguienete:
-
-<p align="center">
-<img width="752" alt="menu-grafa" src="https://user-images.githubusercontent.com/60987042/93893179-f69bb800-fcb2-11ea-8263-5f1e8fef79ea.PNG">
-</p>
-<br />
-
-6. El paso final es en el apartado de **namespace**, buscar nuestro proyecto el cual tenía la syntaxis de **handson-nombreapellido**.
-
-<p align="center">
-<img width="960" alt="cpu" src="https://user-images.githubusercontent.com/60987042/93893355-2945b080-fcb3-11ea-99ca-fa8d27a58a97.PNG">
+<img width="760" alt="cpu" src="https://github.com/emeloibmco/ROKS-React---HandsOn-4.9/assets/51938754/f7fd0d69-06c2-4cf8-b5e8-cc378a285b92">
 </p>
 
-De esta manera podemos analizar el consumo que se ha tenido en nuestra aplicación tanto en CPU como en Memoria.
+De estas dos maneras puede ver y analizar el consumo que ha tenido la aplicación en cuanto a CPU y memoria. 
 
-<br /> -->
 
 ## Despliegue de una imagen Docker en un contenedor de Openshift 📦
 
