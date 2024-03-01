@@ -44,7 +44,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 </p>
 <br />
 
-5. Pegar el **"Log in with this token"** en consola y ejecutarlo, para pegar una linea de texto, usar **Shift + Alt + V**. al ejecutar el comando, este debe ser el resultado.
+5. Pegar el **"Log in with this token"** en consola y ejecutarlo, para pegar una linea de texto, usar **Shift + Ctrl + V**. al ejecutar el comando, este debe ser el resultado.
 
    <br />
 <p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/c5d7dda6-cb1d-45f2-b3c7-63c73b5da2fe">
