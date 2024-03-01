@@ -34,7 +34,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 3. En la parte superior derecha, de click en el usuario y posteriormente de click en el boton **Copy login command** 
 
    <br />
-<p align="center"><img width="600" alt="image" src="img/logincomand.png">
+<p align="center"><img width="300" alt="image" src="img/logincomand.png">
 </p>
 <br />
 
