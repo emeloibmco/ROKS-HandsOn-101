@@ -45,12 +45,17 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 <br />
 
 5. Pegar el **"Log in with this token"** en consola y ejecutarlo, para pegar una linea de texto, usar **Shift + Alt + V**. al ejecutar el comando, este debe ser el resultado.
-<img width="409" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/c5d7dda6-cb1d-45f2-b3c7-63c73b5da2fe">
+
    <br />
 <p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/c5d7dda6-cb1d-45f2-b3c7-63c73b5da2fe">
 </p>
 <br />
-6. 
+6. Para validar el acceso a la instancia de openshift, ejecutar la siguiente linea de codigo.
+
+   ```
+   oc projects
+   ```
+   
 
 ### Validar sesión Openshift en IBM Cloud Shell.
 
