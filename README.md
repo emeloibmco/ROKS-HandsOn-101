@@ -1,4 +1,4 @@
-# ROKS-React---HandsOn-4.9 :cloud:
+# ROKS-React---HandsOn-101 :cloud:
 
 
 Para el desarrollo de este proyecto se tiene como base el desarrollo de una aplicación basada en la librería React de javascript y su posterior despliegue en un **Cluster de OpenShift** que se encuentra alojado en **IBM Cloud**.
