@@ -24,7 +24,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 <p align="center"><img width="800" src="img/IBM cloud.png"></p>
 <br />
 
-2.	Ingrese a la instancia de openshift y dar click en **OpenShiftwebconsole**. 
+2.	Ingrese a la instancia de openshift y dar click en **OpenShift web console**. 
 
    <br />
 <p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/3a0c5860-3c96-45ed-8899-0ac701d2e7c7">
@@ -33,6 +33,10 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 
 3. En la parte superior derecha, de click en el usuario y posteriormente de click en el boton **Copy login command** 
 
+   <br />
+<p align="center"><img width="600" alt="image" src="img/logincomand.png">
+</p>
+<br />
 
 
 ### Validar sesión Openshift en IBM Cloud Shell.
