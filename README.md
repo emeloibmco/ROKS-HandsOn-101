@@ -18,49 +18,9 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 ## Despliegue sobre OpenShift desde IBM Cloud shell: 🚀
 
 ### <p>Dir&iacute;jase a la p&aacute;gina de <a href="https://cloud.ibm.com/">IBM Cloud</a></p>
+1.	Asegurese de estar en la cuenta en la cual se va a desplegar la aplicación, para ello vaya a **Resource List ** y posteriormente a **Containering**
 
 
-
-<br />
-
-### Acceda al cluster de Open Shift (ROKS) desplegado en IBM Cloud 📦
-
-1.	Inicie sesión e ingrese desde la CLI de OpenShift al clúster en el que se va a trabajar. Para ingresar al clúster que tengamos aprovisionado en nuestra cuenta de IBM Cloud se deben realizar los siguientes pasos:
-
-    * Ingresar a la plataforma de IBM cloud con sus credenciales de inicio de sesión, lo puede hacer desde el siguiente link:
-
-     ```
-     https://cloud.ibm.com/
-     ```
-     <br />
-     
-    * Diríjase al resource list. Primero debe dar clic en el navigation menu y luego donde dice Resource list, como se puede ver en la siguiente imagen:
-
-      <p align="center">
-      <img width="696" alt="7" src="https://user-images.githubusercontent.com/60987042/76996077-da434b00-691e-11ea-92be-558da48f7d97.PNG">
-      </p>
-      <br />
-
-    * Diríjase a la sección de clústers y dé clic en el que se desea acceder.
-      <br />
-
-    * Dé clic en el botón OpenShift web console.
-    
-      <br />
-
-### Haga 'login' en el cluster de Open Shift (ROKS) desde la linea de comando 📦
-
-Ahora en la parte superior derecha dé clic sobre el ID del correo con el que ingresamos y luego en la sección que dice Copy Login Command.
-<br />
-
-<p align="center">
-<img width="144" alt="1" src="https://user-images.githubusercontent.com/60987042/76917049-53479180-6890-11ea-91a1-b2c2c9213729.PNG">
-</p>
-<br />
-
-Y por último vuelva a la terminal que se estaba utilizando, pegue el comando y presione enter.
-
-<br />
 
 ### Cree un nuevo proyecto en OpenShift para desplegar las aplicaciones 📦
 1.	Cree un nuevo proyecto en el clúster de la siguiente manera:
