@@ -22,7 +22,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 
 
    <br />
-<p align="center"><img width="600" src="img/IBM cloud.png"></p>
+<p align="center"><img width="800" src="img/IBM cloud.png"></p>
 <br />
    
    
