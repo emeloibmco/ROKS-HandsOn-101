@@ -21,6 +21,13 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 1.	Asegurese de estar en la cuenta en la cual se va a desplegar la aplicación, para ello vaya a **Resource List** y posteriormente a **Containers**, debe tener **activa** la instancia de openshift.
 
 
+   <br />
+<p align="center"><img width="600" src="img/IBM cloud.png"></p>
+<br />
+   
+   
+
+
 
 ### Cree un nuevo proyecto en OpenShift para desplegar las aplicaciones 📦
 1.	Cree un nuevo proyecto en el clúster de la siguiente manera:
