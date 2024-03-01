@@ -109,12 +109,14 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
    <br />
 
 4.	Para poder acceder al la URL de la aplicación y realizar la verificación de la misma, ingrese a la consola web de OpenShift en el apartado  **Developer**, en la vista **topology** y asegurando estar en el proyecto creado, de click en el botón señalado a continuación.
+
+**Nota:** Debe asegurarse que la aplicación haya finalizado de desplegarse, generalmente toma un par de minutos.
    
    <br />
 <p align="center"><img width="600" src="img/launchreactapp.png"></p>
 <br />
 
-**Nota:** Debe asegurarse que la aplicación haya finalizado de desplegarse, generalmente toma un par de minutos.
+
 
 
 
