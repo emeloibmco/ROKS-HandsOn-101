@@ -31,13 +31,26 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 </p>
 <br />
 
-3. En la parte superior derecha, de click en el usuario y posteriormente de click en el boton **Copy login command** 
+3. En la parte superior derecha, de click en el usuario y posteriormente de click en el boton **Copy login command**
 
    <br />
 <p align="center"><img width="300" alt="image" src="img/logincomand.png">
 </p>
 <br />
 
+4. Copie y pegue el **"Log in whith this token"** y peguelo en IBM Cloud Shell, para acceder a IBM Cloud Shell debe volver a IBM Cloud y presionar el siguiente botón.
+   <br />
+<p align="center"><img width="800" alt="image" src="img/ibmcloud2.png">
+</p>
+<br />
+
+5. Pegar el **"Log in with this token"** en consola y ejecutarlo, para pegar una linea de texto, usar **Shift + Alt + V**. al ejecutar el comando, este debe ser el resultado.
+<img width="409" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/c5d7dda6-cb1d-45f2-b3c7-63c73b5da2fe">
+   <br />
+<p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/c5d7dda6-cb1d-45f2-b3c7-63c73b5da2fe">
+</p>
+<br />
+6. 
 
 ### Validar sesión Openshift en IBM Cloud Shell.
 
