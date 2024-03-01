@@ -23,7 +23,8 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
   <br />
 <p align="center"><img width="800" src="img/IBM cloud.png"></p>
 <br />
-2.	Ingrese a la instancia de openshift y dar click en **OpenShift web console**.
+
+2.	Ingrese a la instancia de openshift y dar click en **OpenShiftwebconsole**. 
 
    <br />
 <p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/3a0c5860-3c96-45ed-8899-0ac701d2e7c7">
