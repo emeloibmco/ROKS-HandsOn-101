@@ -20,21 +20,24 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 ### Acceder a IBM Cloud Shell y v.
 #### <p>Dir&iacute;jase a la p&aacute;gina de <a href="https://cloud.ibm.com/">IBM Cloud</a></p>
 1.	Asegurese de estar en la cuenta en la cual se va a desplegar la aplicación, para ello vaya a **Resource List** y posteriormente a **Containers**, debe tener **activa** la instancia de openshift.
-2.	Ingrese a la instancia de openshift y dar click en **OpenShift web console**.
-
-
-   <br />
+  <br />
 <p align="center"><img width="800" src="img/IBM cloud.png"></p>
 <br />
-
-### Validar sesión Openshift en IBM Cloud Shell.
-
-1. En la sección 
+2.	Ingrese a la instancia de openshift y dar click en **OpenShift web console**.
 
    <br />
 <p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/3a0c5860-3c96-45ed-8899-0ac701d2e7c7">
 </p>
 <br />
+
+3. En la parte superior derecha, de click en el usuario y posteriormente de click en el boton **Copy login command** 
+
+
+
+### Validar sesión Openshift en IBM Cloud Shell.
+
+1. En la sección 
+
    
    
 
