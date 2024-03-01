@@ -19,6 +19,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 
 ### <p>Dir&iacute;jase a la p&aacute;gina de <a href="https://cloud.ibm.com/">IBM Cloud</a></p>
 1.	Asegurese de estar en la cuenta en la cual se va a desplegar la aplicación, para ello vaya a **Resource List** y posteriormente a **Containers**, debe tener **activa** la instancia de openshift.
+2.	Dirijase a IBM Cloud Shel dando click en el botón.
 
 
    <br />
