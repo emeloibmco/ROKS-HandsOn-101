@@ -17,9 +17,8 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 
 ## Despliegue sobre OpenShift desde IBM Cloud shell: 🚀
 
-### Haga 'login' a IBM Cloud desde la línea de comando
+### <p>Dir&iacute;jase a la p&aacute;gina de <a href="https://cloud.ibm.com/">IBM Cloud</a></p>
 
-Dirijase a la pagina de <a href="[URL_del_destino](https://cloud.ibm.com/)">IBM Cloud.</a>
 
 
 <br />
