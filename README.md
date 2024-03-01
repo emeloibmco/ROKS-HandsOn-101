@@ -57,15 +57,6 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
    ```
    
 
-### Validar sesión Openshift en IBM Cloud Shell.
-
-1. En la sección 
-
-   
-   
-
-
-
 ### Cree un nuevo proyecto en OpenShift para desplegar las aplicaciones 📦
 1.	Cree un nuevo proyecto en el clúster de la siguiente manera:
 
