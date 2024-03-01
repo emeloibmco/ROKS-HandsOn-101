@@ -15,15 +15,13 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 
 <br />
 
-## Despliegue en OpenShift desde IBM Cloud shell: 🚀
+## Despliegue sobre OpenShift desde IBM Cloud shell: 🚀
 
 ### Haga 'login' a IBM Cloud desde la línea de comando
 
-Inicialmente debe acceder al shell de IBM Cloud desde el siguiente link:
+Dirijase a la pagina de <a href="[URL_del_destino](https://cloud.ibm.com/)">IBM Cloud.</a>
 
-```
-https://cloud.ibm.com/shell
-```
+
 <br />
 
 ### Acceda al cluster de Open Shift (ROKS) desplegado en IBM Cloud 📦
