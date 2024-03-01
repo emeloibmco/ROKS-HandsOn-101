@@ -19,32 +19,32 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 
 ### Acceder a IBM Cloud Shell y v.
 #### <p>Dir&iacute;jase a la p&aacute;gina de <a href="https://cloud.ibm.com/">IBM Cloud</a></p>
-1.	Asegurese de estar en la cuenta en la cual se va a desplegar la aplicación, para ello vaya a **Resource List** y posteriormente a **Containers**, debe tener **activa** la instancia de openshift.
+1.	Asegurese de estar en la cuenta en la cual se va a desplegar la aplicación, para ello vaya a **Resource List** y posteriormente a **Containers**, debe tener **activa** la instancia de openshift:
   <br />
 <p align="center"><img width="800" src="img/IBM cloud.png"></p>
 <br />
 
-2.	Ingrese a la instancia de openshift y dar click en **OpenShift web console**. 
+2.	Ingrese a la instancia de openshift y dar click en **OpenShift web console**:
 
    <br />
 <p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/3a0c5860-3c96-45ed-8899-0ac701d2e7c7">
 </p>
 <br />
 
-3. En la parte superior derecha, de click en el usuario y posteriormente de click en el boton **Copy login command**
+3. En la parte superior derecha, de click en el usuario y posteriormente de click en el boton **Copy login command**:
 
    <br />
 <p align="center"><img width="300" alt="image" src="img/logincomand.png">
 </p>
 <br />
 
-4. Copie y pegue el **"Log in whith this token"** y peguelo en IBM Cloud Shell, para acceder a IBM Cloud Shell debe volver a IBM Cloud y presionar el siguiente botón.
+4. Copie y pegue el **"Log in whith this token"** y peguelo en IBM Cloud Shell, para acceder a IBM Cloud Shell debe volver a IBM Cloud y presionar el siguiente botón:
    <br />
 <p align="center"><img width="800" alt="image" src="img/ibmcloud2.png">
 </p>
 <br />
 
-5. Pegar el **"Log in with this token"** en consola y ejecutarlo, para pegar una linea de texto, usar **Shift + Ctrl + V**. al ejecutar el comando, este debe ser el resultado.
+5. Pegar el **"Log in with this token"** en consola y ejecutarlo; para pegar una linea de texto, usar **Shift + Ctrl + V**. Al ejecutar el comando, este debe ser el resultado:
 
    <br />
 <p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/c5d7dda6-cb1d-45f2-b3c7-63c73b5da2fe">
