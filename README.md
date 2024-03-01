@@ -81,7 +81,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
    ```
    npx create-react-app react-web-app
    ```
-   
+   **Nota:** Si solicita instalar algún paquete, instalelos.
    <br />
    
 2.	Dirigirse a esta carpeta con el comando:
