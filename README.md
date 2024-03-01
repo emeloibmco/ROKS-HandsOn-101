@@ -32,7 +32,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 1. En la sección 
 
    <br />
-<p align="center"><img width="578" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/3a0c5860-3c96-45ed-8899-0ac701d2e7c7">
+<p align="center"><img width="800" alt="image" src="https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/3a0c5860-3c96-45ed-8899-0ac701d2e7c7">
 </p>
 <br />
    
