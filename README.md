@@ -108,16 +108,16 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
    
    <br />
 
-4.	Para poder acceder al la URL de la aplicación y realizar la verificación de la misma ingrese a la consola web de OpenShift, en la vista topology
-
-     <br />
-<p align="center"><img width="600" src="https://github.com/sofiaponteb/ROKS-React-Hands-On/blob/main/img/react-web-app.png"></p>
+4.	Para poder acceder al la URL de la aplicación y realizar la verificación de la misma, ingrese a la consola web de OpenShift en el apartado  **Developer**, en la vista **topology** y asegurando estar en el proyecto creado, de click en el botón señalado a continuación.
+   
+   <br />
+<p align="center"><img width="600" src="img/launchreactapp.png"></p>
 <br />
 
-   Y por último solo faltaría dar clic en el link que lo llevará a la aplicación desplegada.
-<br />
-   <p align="center"><img width="600" src="https://github.com/sofiaponteb/ROKS-React-Hands-On/blob/main/img/pagina-demo.png"></p>
-<br />
+**Nota:** Debe asegurarse que la aplicación haya finalizado de desplegarse, generalmente toma un par de minutos.
+
+
+
    
    De esta forma se daría por terminado el despliegue de la aplicación react en openshift.
 
