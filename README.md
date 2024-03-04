@@ -184,7 +184,7 @@ img/comprodockerfile.png
 13. Al dar clic en crear se iniciará un proceso de build el cual nos entregará el link de despliegue de nuestra aplicación".
 
 <br />
-   <p align="center"><img width="600" src="https://github.com/sofiaponteb/ROKS-React-Hands-On/blob/main/img/feedback-app.png"></p>
+   <p align="center"><img width="600" src="img/detalles.png"></p>
 <br />
 
 
