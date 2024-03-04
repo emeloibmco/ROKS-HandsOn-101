@@ -149,6 +149,9 @@ Para realizar el despliegue desde la consola web de OpenShift de una  manera má
 [[https://github.com/emeloibmco/ROKS-HandsOn-101/edit/main/README.md#despliegue-aplicaci%C3%B3n-feedback-app-desde-la-consola-web-de-openshift-](https://github.com/emeloibmco/ROKS-HandsOn-101/blob/main/README.md#despliegue-aplicaci%C3%B3n-feedback-app-desde-la-consola-web-de-openshift-)
 ](https://github.com/emeloibmco/ROKS-HandsOn-101.git)
 
+ **Nota:** Fijese que el **"Import Strategy"** sea por medio de Dockerfile. Este metodo es el recomendado para esta guia.  
+
+
 10. Una vez seleccionada, presione ```Show Advanced Options``` y baje hasta ```Show Advanced Routing Options```. En el puerto ingrese el puerto donde se expone la aplicación creada. En este caso de prueba **8080**, a menos que haya sido cambiado en el desarrollo de la aplicación.
 
 <br />
