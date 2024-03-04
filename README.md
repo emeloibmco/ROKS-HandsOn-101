@@ -6,7 +6,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 <br />
 
 ### Indice
-1. [Despliegue en OpenShift desde IBM Cloud shell](#Despliegue-sobre-OpenShift-desde-IBM-Cloud-shell:-🚀)
+1. [Despliegue en OpenShift desde IBM Cloud shell]( #Despliegue-sobre-OpenShift-desde-IBM-Cloud-shell:-🚀)
 2. [Despliegue Aplicación Demo en React](#despliegue-aplicación-demo-en-react-⚛️)
 3. [Despliegue Aplicación Feedback App Desde la consola web de OpenShift](#despliegue-aplicación-feedback-app-desde-la-consola-web-de-openshift-📦)
 4. [Monitoreo de la aplicación](#monitoreo-de-la-aplicación)
