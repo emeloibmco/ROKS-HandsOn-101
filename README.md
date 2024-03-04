@@ -17,7 +17,7 @@ Para el desarrollo de esta guia de despliegue, se tiene como base el desarrollo 
 
 ## Despliegue sobre OpenShift desde IBM Cloud shell:🚀
 
-### Acceder a IBM Cloud Shell y v.
+### Acceder a IBM Cloud Shell y verificar credenciales.
 #### <p>Dir&iacute;jase a la p&aacute;gina de <a href="https://cloud.ibm.com/">IBM Cloud</a></p>
 1.	Asegurese de estar en la cuenta en la cual se va a desplegar la aplicación, para ello vaya a **Resource List** y posteriormente a **Containers**, debe tener **activa** la instancia de openshift:
   <br />
