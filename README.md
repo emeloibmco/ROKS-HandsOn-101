@@ -226,7 +226,19 @@ De estas dos maneras puede ver y analizar el consumo que ha tenido la aplicació
 
 Para realizar el despliegue de una aplicación que se encuentra alojada en un una imagen de DockerHub se deben realizar los siguientes pasos:
 
-1. Dé clic en la sección **Add** y luego en la sección ***Container Image*.
+1. Por medio de **Docker Deskpot**, vamos a buscar **"websphere-liberty"** , vamos a seleccionar la que aparece en la siguiente imagen:
+
+<p align="center">
+<img width="668" alt="contai" src="img/dockerhub.png">
+</p>
+
+2. Luego, vamos a Copiar **Solamente** la porción de la linea de texto señalada:
+<p align="center">
+<img width="668" alt="contai" src="img/websphere liberty.png">
+</p>
+   
+
+3. Luego, nos dirigimos a la consola Web de OpenShift y va a dar click en la sección **Add** y luego en la sección ***Container Image*.
 
 <p align="center">
 <img width="668" alt="contai" src="https://user-images.githubusercontent.com/60987042/83419932-7e4f7500-a3eb-11ea-8a3a-1a1e2a652adc.PNG">
