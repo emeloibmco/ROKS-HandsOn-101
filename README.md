@@ -149,7 +149,7 @@ Para realizar el despliegue desde la consola web de OpenShift de una  manera má
 https://github.com/sofiaponteb/feedback-app-openshift
 
 
-10. Una vez seleccionada, presione ```Show Advanced Options``` y baje hasta ```Show Advanced Routing Options```. En el puerto ingrese el puerto donde se expone la aplicación creada. En el caso de react suele ser el puerto **3000**, a menos que haya sido cambiado en el desarrollo de la aplicación.
+10. Una vez seleccionada, presione ```Show Advanced Options``` y baje hasta ```Show Advanced Routing Options```. En el puerto ingrese el puerto donde se expone la aplicación creada. En este caso de prueba **8080**, a menos que haya sido cambiado en el desarrollo de la aplicación.
 
 <br />
    <p align="center"><img width="600" src="https://github.com/sofiaponteb/ROKS-React-Hands-On/blob/main/img/port.png"></p>
