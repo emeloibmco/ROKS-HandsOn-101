@@ -150,9 +150,11 @@ Para realizar el despliegue desde la consola web de OpenShift de una  manera má
 ](https://github.com/emeloibmco/ROKS-HandsOn-101.git)
 
  **Nota:** Fijese que el **"Import Strategy"** sea por medio de Dockerfile. Este metodo es el recomendado para esta guia.  
+img/comprodockerfile.png
+
 
 <br />
-   <p align="center"><img width="600" src="[https://github.com/sofiaponteb/ROKS-React-Hands-On/blob/main/img/port.png](https://github.com/emeloibmco/ROKS-HandsOn-101/assets/160188006/6fafc7b4-76ed-4584-a830-2f08a5c70268)"></p>
+   <p align="center"><img width="600" src="img/comprodockerfile.png"></p>
 <br />
 
 
