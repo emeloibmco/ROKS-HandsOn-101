@@ -192,13 +192,7 @@ img/comprodockerfile.png
 
 <br />
 
-14. Una vez terminado el proceso de despliegue puede dirigirse a Routes, donde podrá ver la URL mediante la cual podrá acceder a la aplicación ya desplegada.
 
-<br />
-   <p align="center"><img width="600" src="https://github.com/sofiaponteb/ROKS-React-Hands-On/blob/main/img/feedback-url.png"></p>
-<br />
-
-<br />
 
 ## Monitoreo de la aplicación
 
