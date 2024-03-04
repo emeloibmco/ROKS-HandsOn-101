@@ -146,7 +146,7 @@ Para realizar el despliegue desde la consola web de OpenShift de una  manera má
 
 9. Ingrese la URL del repositorio de GitHub que contiene la aplicación a desplegar, si lo desea puede ser la siguiente:
 
-https://github.com/emeloibmco/ROKS-HandsOn-101/edit/main/README.md#despliegue-aplicaci%C3%B3n-feedback-app-desde-la-consola-web-de-openshift-
+[https://github.com/emeloibmco/ROKS-HandsOn-101/edit/main/README.md#despliegue-aplicaci%C3%B3n-feedback-app-desde-la-consola-web-de-openshift-](https://github.com/emeloibmco/ROKS-HandsOn-101/blob/main/README.md#despliegue-aplicaci%C3%B3n-feedback-app-desde-la-consola-web-de-openshift-)
 
 
 10. Una vez seleccionada, presione ```Show Advanced Options``` y baje hasta ```Show Advanced Routing Options```. En el puerto ingrese el puerto donde se expone la aplicación creada. En este caso de prueba **8080**, a menos que haya sido cambiado en el desarrollo de la aplicación.
